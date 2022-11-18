@@ -20,9 +20,9 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](./screenshot.JPG)
 
-Link to the video:
+Link to the deployment page: https://blooming-everglades-27838.herokuapp.com/
 
 ## Authors
 

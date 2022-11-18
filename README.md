@@ -6,17 +6,16 @@ This application is a basic text editor app. Once inside the browser version of 
 
 This application is generic from a front view, however, the concept is to have any content from users to be stored into a database.
 
-
+The application can be installed with the install button on the nav bar, which will open its own text editor app.
 
 
 ## Installation
 
-Install my-project with npm
+- Clone this repository to retrieve all the files and folders
+- Run npm install
+- Run npm start
+- Go to localhost:3000 to begin using it
 
-```bash
-  npm install 
-  npm start
-```
     
 ## Screenshots
 
